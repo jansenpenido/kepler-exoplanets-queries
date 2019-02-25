@@ -1,6 +1,4 @@
 # Exoplanets Queries
-This project was developed as an exercise for Coursera's [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) course.
-
 
 ## Overview
 This is a set of SQL queries on an extract from [NASA's exoplanet archive](http://exoplanetarchive.ipac.caltech.edu/).
@@ -20,5 +18,5 @@ In this repository you can find the scripts to generate and populate the tables.
 * Execute the queries you need.
 
 
-## Author
-[Jansen Penido](https://about.me/jansen.penido)
+## Acknowledgments
+* This application was developed as an exercise for Coursera's [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) course.
